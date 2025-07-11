@@ -1,0 +1,84 @@
+To improve your buyer persona based on Matthew’s portfolio, we want to lean into his real-world expertise and patterns, and tailor Jupiter Startups’ offerings and messaging to attract more technical founders like him. Below is a refined version of the buyer persona that reflects Matthew’s strengths, pain points, and behavior patterns.
+
+⸻
+
+🔍 Refined Buyer Persona: “Matthew the Builder-Founder”
+
+💼 Profile Summary
+•Name: Matthew (a.k.a. “The Architect”)
+•Age: 30s–40s
+•Background: Senior engineer / former team lead turned indie founder
+•Track Record: Built and scaled backend systems at companies like Umee, LeaseLock, HelloTech, and WeedMaps
+•Current Mission: Building new AI-infused or blockchain-based products from the ground up
+•Stage: Pre-seed to post-MVP
+•Budget Range: Comfortable with $10K–$25K if it replaces hiring multiple devs
+
+⸻
+
+🎯 Primary Goals
+•Launch a robust, real-world product without hiring a full team
+•Maintain technical control while accelerating delivery
+•Avoid early tech debt while delivering something tangible to investors
+•Use familiar tools like Slack, GitHub, Cursor, Claude, and VSCode
+
+⸻
+
+💢 Frustrations & Pain Points
+•Team gap: Often solo or has only 1–2 collaborators
+•Time drain: Balancing infra, front-end, backend, and investor conversations
+•Toolchain overload: Too many dev tools, no orchestration layer
+•No-nonsense mindset: Skeptical of bloated platforms or vague design deliverables
+
+⸻
+
+🧠 Behavior Patterns
+•Prefers dev-first tools and clean CI/CD workflows
+•Comfortable with GitHub Projects, Actions, Docker, k8s
+•Willing to pay for real functionality, not fluff
+•Tests GPT, Claude, Cursor, etc., in real-world dev flows
+
+⸻
+
+🧩 Product Positioning for Him
+•Name: Jupiter Startups – Platinum Kit
+•Pitch: “Everything you need to ship a coded MVP with up to 10 screens and real infra hooks, done from Slack.”
+•Unique Value: Real code in your repo, CI-ready, designed with your stack in mind
+•Bonus Feature: DevOps bot (like JUJU) that syncs Slack-to-GitHub-to-Cursor
+
+⸻
+
+📈 Opportunities to Engage
+•Webinar Topic: “How to Build a Dev-First MVP in Slack”
+•Lead Magnet: “Dev-Founder Startup Stack: Slack + Cursor + Claude”
+•Landing Page Hook:
+“You already know how to ship. We just make it frictionless.”
+“Push code, test commits, and manage huddles all from Slack.”
+
+⸻
+
+💬 Example Persona-Targeted Ad Copy
+
+“Dear Architect. You’ve written production code for billion-dollar systems. You don’t need an agency—you need a teammate. Jupiter Startups gives you the speed of an accelerator with the discipline of a senior engineer. Slack-native. Code-delivered. Own it all.”
+
+⸻
+
+🔧 Persona Enhancements Based on Matthew’s Portfolio
+
+DimensionPrevious Buyer PersonaRefined for Matthew’s Profile
+Technical DepthMid-level, needs guidanceSenior, needs orchestration & support
+Toolchain PreferenceVisual, low-code toolsGitHub-native, Cursor, Claude, Slack-first
+MVP Scope2–5 screens, UI-only5–10 screens, API/infra connected
+DevOps ExpectationsMinimalFully CI/CD capable
+AI Use CaseCopilot curiosityClaude/Cursor workflow automation
+Content RelevanceHow to launchHow to scale with real infra
+
+
+⸻
+
+✅ Next Steps
+1.Add this persona to your website under “Who it’s for”
+2.Feature a case study or blog post from Matthew’s POV
+3.Launch a Slack + Cursor dev tools tutorial series
+4.Offer a special founder plan for solo senior engineers
+
+Would you like a new landing page wireframe or lead magnet PDF tailored to this updated persona?
